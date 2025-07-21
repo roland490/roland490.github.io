@@ -117,7 +117,7 @@
 						</div>Work Experience (Fresher / Entry-Level Data Scientist)
 
 Data Science Intern
-Codar Tech Africa Ltd. – Lagos, Nigeria
+Codar Tech Africa Ltd. – Lagos,Nigeria
 Apr 2024 – Oct 2025
 	•	Assisted in building machine learning models for customer segmentation using K-Means clustering.
 	•	Performed exploratory data analysis (EDA) on large retail datasets using Python (Pandas, Matplotlib).
